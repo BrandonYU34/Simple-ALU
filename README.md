@@ -28,5 +28,7 @@ ALU_Control.v : 根據輸入的 6-bit 控制訊號，決定該完成哪一種運
  SLL : 00
  DIVU : 27
  --------------------------
-
+ 
 TotalALU.v : 將ALU、Shifter、Divider、HiLo、MUX整合為一個環境，用於整體功能測試。
+
+
